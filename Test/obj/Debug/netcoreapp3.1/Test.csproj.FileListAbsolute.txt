@@ -270,3 +270,8 @@ C:\Users\Core i5 9400\Desktop\UI\BE12\Test\obj\Debug\netcoreapp3.1\Test.pdb
 C:\Users\Core i5 9400\Desktop\UI\BE12\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
 C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Core i5 9400\Desktop\UI\BE12\Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Core i5 9400\Desktop\UI\BE12\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cs
